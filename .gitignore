@@ -1,9 +1,10 @@
-node_modules
-package-lock.json
-dist
-proxy.txt
-accounts.json
-dump.js
-# Python OptimAi-BOT
+# ===== OptimAi-BOT (Python) =====
+# 真实 token 切勿提交到公开仓库！
 tokens.txt
-python/tokens.txt
+
+# 若你在本地创建真实代理文件，也别提交
+proxy.txt
+
+# Python 缓存
+__pycache__/
+*.pyc
