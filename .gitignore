@@ -4,3 +4,6 @@ dist
 proxy.txt
 accounts.json
 dump.js
+# Python OptimAi-BOT
+tokens.txt
+python/tokens.txt

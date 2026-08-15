@@ -1,0 +1,15 @@
+# OptimAi-BOT tokens.txt — EXAMPLE TEMPLATE (脱敏模板, 非真实凭证)
+# ============================================================
+# 复制本文件为 tokens.txt，并替换为你的真实 OptimAI refresh token。
+#
+# 每行一个 token，支持两种格式:
+#   纯 token:   eyJhbGciOi...            (完整 JWT refresh token，以 eyJ 开头)
+#   带名字:     gdgzsy1:eyJhbGciOi...     (名字 + 冒号 + token，便于看板辨识账号)
+#
+# 真实 token 来源: OptimAI 网页/扩展 登录后取到的 refresh_token。
+# ⚠️ tokens.txt 已被 .gitignore 忽略，切勿把真实 token 提交到公开仓库！
+# ============================================================
+
+# 取消下面注释并替换为你自己的真实 token:
+# gdgzsy1:eyJ<你的真实refresh_token>
+# gdgzsy2:eyJ<你的真实refresh_token>
